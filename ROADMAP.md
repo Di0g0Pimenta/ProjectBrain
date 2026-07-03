@@ -1,48 +1,9 @@
 # Roadmap
 
-## v0.1 Foundation
-
-- [ ] CLI
-- [ ] FastAPI
-- [ ] SQLite
-- [ ] Configuration
-- [ ] Logging
-- [ ] Project Initialization
-
----
-
-## v0.2 Scanner
-
-- [ ] Recursive Scanner
-- [ ] Ignore Rules
-- [ ] File Discovery
-
----
-
-## v0.3 Knowledge Graph
-
-- [ ] Entity Extraction
-- [ ] Relationships
-- [ ] Graph Database
-
----
-
-## v0.4 Memory
-
-- [ ] Markdown Generation
-- [ ] Session Memory
-- [ ] Project Summaries
-
----
-
-## v0.5 LLM Integration
-
-- [ ] LM Studio
-- [ ] Ollama
-- [ ] Prompt Builder
-
----
-
-## v1.0
-
-Stable Release
+- [x] PB-001 Base (Foundation)
+- [x] PB-002 Scanner de Sistema de Arquivos
+- [ ] PB-003 Analisador (Parser) Python
+- [ ] PB-004 Grafo de Conhecimento
+- [ ] PB-005 Exportador Markdown
+- [ ] PB-006 Integração com LLM
+- [ ] PB-007 Monitor (Watcher)

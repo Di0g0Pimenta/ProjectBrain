@@ -35,12 +35,13 @@ Current packages
 - watcher
 
 Architecture frozen by ADR-001.
+Knowledge Graph as Core Domain defined by ADR-003.
 
 ---
 
 ## Current Goal
 
-Build the application foundation.
+Implement PB-002 Scanner and PB-003 Parser.
 
 No project analysis yet.
 
