@@ -1,0 +1,25 @@
+[project]
+name = "projectbrain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiosqlite>=0.22.1",
+    "fastapi>=0.139.0",
+    "loguru>=0.7.3",
+    "networkx>=3.6.1",
+    "pydantic>=2.13.4",
+    "pydantic-settings>=2.14.2",
+    "rich>=15.0.0",
+    "sqlalchemy>=2.0.51",
+    "tomlkit>=0.15.0",
+    "typer>=0.26.8",
+    "uvicorn>=0.49.0",
+    "watchfiles>=1.2.0",
+]
+
+[tool.uv.workspace]
+members = [
+    "Application",
+]
