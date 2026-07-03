@@ -66,3 +66,16 @@ Every feature should include:
 - typing
 - documentation
 - logging
+
+---
+
+# Architecture Governance
+
+ProjectBrain follows Architecture Decision Records (ADR).
+
+Rules
+
+- Every architectural decision receives an ADR.
+- Accepted decisions become part of the project state.
+- No accepted architectural decision may be changed without a new ADR.
+- Project documentation is considered the source of truth.
