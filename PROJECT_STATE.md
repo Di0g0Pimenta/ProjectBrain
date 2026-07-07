@@ -2,7 +2,7 @@
 
 ## Current Sprint
 
-S001 - Foundation
+S001 - Foundation + Scanner + Parser
 
 Status
 
