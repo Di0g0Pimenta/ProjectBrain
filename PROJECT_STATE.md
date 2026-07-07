@@ -2,7 +2,7 @@
 
 ## Current Sprint
 
-S001 - Foundation + Scanner + Parser
+S001 - Foundation + Scanner + Parser + Graph
 
 Status
 
@@ -41,7 +41,7 @@ Knowledge Graph as Core Domain defined by ADR-003.
 
 ## Current Goal
 
-Implement PB-002 Scanner and PB-003 Parser.
+Implement PB-005 Exporter.
 
 No project analysis yet.
 
